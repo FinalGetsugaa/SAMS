@@ -1,0 +1,4 @@
+echo '<form action="attendancenew.php" method="POST">
+	Enter subject name:
+	<input type="text" name="sub" value=""><br>
+	<input type="submit" name="submit" value="submit">';
